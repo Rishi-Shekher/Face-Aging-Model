@@ -1,0 +1,24 @@
+Videos, Tutorials and Other Materials That I followed
+
+
+Python:
+
+https://www.youtube.com/watch?v=kqtD5dpn9C8
+https://www.w3schools.com/python/python_intro.asp
+https://www.youtube.com/watch?v=VchuKL44s6E
+
+Jupyter Notebook and Google Colab
+
+
+https://www.youtube.com/watch?v=mR8cvcwJ1Ko
+https://www.youtube.com/watch?v=HLD-Ll_-IT4
+https://www.youtube.com/watch?v=rsBiVxzmhG0
+https://www.youtube.com/watch?v=RLYoEyIHL6A
+
+
+
+Deep Learning
+
+https://www.youtube.com/watch?v=VyWAvY2CF9c
+https://www.youtube.com/watch?v=o3bWqPdWJ88
+
