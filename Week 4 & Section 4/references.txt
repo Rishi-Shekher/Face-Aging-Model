@@ -1,0 +1,11 @@
+Videos, Tutorials and Other Materials That I followed
+
+Working on image datasets 
+OpenCV, TorchVision,PIL
+
+
+https://www.youtube.com/watch?v=oXlwWbU8l2o
+https://pillow.readthedocs.io/en/stable/
+Pillow Playlist : https://www.youtube.com/watch?v=cEvIFNmmAjc&list=PLH42YHDxfBrKnEd3n6JGdWScU01a6FCyI
+https://docs.pytorch.org/vision/main/transforms.html
+TorchVision Transforms: https://www.youtube.com/watch?v=-oAOgBvXdJY
