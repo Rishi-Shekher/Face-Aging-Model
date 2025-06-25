@@ -1,0 +1,9 @@
+Videos, Tutorials and Other Materials That I followed
+
+CNN - Computational Neural Networks
+https://www.youtube.com/watch?v=YRhxdVk_sIs
+https://cs231n.stanford.edu/
+https://www.youtube.com/watch?v=pDdP0TFzsoQ
+
+Tensorflow (Recap Playlist)
+https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
