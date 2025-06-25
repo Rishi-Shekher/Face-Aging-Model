@@ -1,0 +1,23 @@
+Videos, Tutorials and Other Materials That I followed
+Neural Networks:
+
+Playlist :  https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-1-e13f132c6d7e
+https://medium.com/deep-learning-demystified/introduction-to-neural-networks-part-2-c261a99f4138
+
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3
+
+
+PyTorch for Deep learning:
+
+Playlist:
+https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4
+https://www.youtube.com/playlist?list=PLCC34OHNcOtpcgR9LEYSdi9r7XIbpkpK1
+https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz
+
+
+TensorFlow for Deep learning:
+
+https://www.youtube.com/watch?v=5Ym-dOS9ssA&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb
+
+https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
